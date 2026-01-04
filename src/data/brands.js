@@ -4,7 +4,7 @@ export const brands = [
         name: 'Grape House Supreme Brandy',
         tagline: 'Introducing a New Legacy.',
         heroHeadline: 'Where Craft Meets Class.',
-        image: '/grape_house_brandy.png',
+        image: '/grape_house_brandy_new.jpg',
         color: '#702F8A', // Plum
         description: 'Grape House Supreme Brandy is an ode to timeless craftsmanship, created for the modern connoisseur who values depth, balance, and elegance in every pour. Every batch begins with hand-selected grapes, harvested at peak maturity, and distilled through a meticulous process that preserves the essence of the fruit. The result is a brandy that’s smooth yet full-bodied — rich in flavour, layered in complexity, and finished with velvety warmth.',
         subDescription: 'But what truly sets Grape House apart is its spirit of innovation. It’s more than a drink — it’s an evolution of legacy. By combining classical aging techniques with precise blending methods, Grape House Supreme captures the sophistication of a European-style brandy while embracing the warmth and richness of India’s terroir.',
@@ -38,7 +38,7 @@ export const brands = [
         name: 'Hyderabad Blue Reserve Whisky',
         tagline: 'The Finest Flavours. Blended Mature Malts.',
         heroHeadline: 'A Toast to the City of Dreams.',
-        image: '/hyderabad_blue_whisky.png',
+        image: '/hyderabad_blue_whisky_new.jpg',
         color: '#1E3A8A', // Royal Blue
         description: 'Hyderabad Blue Reserve Whisky stands as the crown jewel of Amber Spirits — a master blend that mirrors the spirit of Hyderabad itself: regal, cultured, and endlessly charming. Crafted with the finest matured malts and grain whiskies, Hyderabad Blue offers a taste that’s both sophisticated and soulful. Each sip reveals new dimensions — a silky texture, balanced flavours, and a deep, satisfying finish.',
         subDescription: 'Beyond its impeccable craftsmanship lies a story of heritage and pride. Hyderabad Blue isn’t just a whisky; it’s an experience that connects tradition with modern celebration. Whether enjoyed neat, on the rocks, or in a crafted cocktail, it brings people together in the way only the finest whisky can.',
@@ -72,7 +72,7 @@ export const brands = [
         name: 'Hyderabad House Classic Brandy',
         tagline: 'Matured Grape Spirit. Crafted for Tradition.',
         heroHeadline: 'Tradition, Reimagined in Every Sip.',
-        image: '/hyderabad_house_brandy.png',
+        image: '/hyderabad_house_brandy_new.jpg',
         color: '#D4AF37', // Amber/Gold
         description: 'Hyderabad House Classic Brandy is a homage to heritage — an exquisite blend born from tradition, refined for today’s discerning palate. Crafted from matured grape spirits and enriched with natural flavours, it embodies the art of balance — where warmth meets smoothness, and richness meets restraint. With its deep amber hue and comforting aroma, Hyderabad House invites you to slow down, savour, and celebrate.',
         subDescription: 'Each bottle of Hyderabad House carries with it the essence of craftsmanship — a reflection of patience, pride, and purpose. It’s not just a brandy; it’s a story told across generations, from those who built the craft to those who carry it forward.',
