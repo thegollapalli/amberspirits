@@ -10,9 +10,12 @@ import Contact from './pages/Contact';
 import Leadership from './pages/Leadership';
 import News from './pages/News';
 
+import AgeVerificationModal from './components/Common/AgeVerificationModal';
+
 function App() {
   return (
     <Router>
+      <AgeVerificationModal />
       <Layout>
         <Routes>
           <Route path="/" element={<Home />} />

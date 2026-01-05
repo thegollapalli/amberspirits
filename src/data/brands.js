@@ -21,7 +21,7 @@ export const brands = [
         name: 'Amber Horse Superior Whisky',
         tagline: 'Purest Form of Grain Spirit.',
         heroHeadline: 'Bold by Nature. Smooth by Design.',
-        image: '/amber_horse_whisky.png',
+        image: '/amber_horse_whisky_new.jpg',
         color: '#C17C3D', // Copper
         description: 'Amber Horse Superior Whisky represents the fearless spirit of new-age drinkers — bold, youthful, and refined. It’s a whisky that doesn’t conform to expectations; instead, it charges forward with a confident balance of character and clarity. Crafted from the purest grain spirits and nature-identical flavours, Amber Horse delivers a crisp, refreshing taste with subtle undertones of spice and malt.',
         subDescription: 'What makes Amber Horse stand apart is its personality — young but assured, approachable yet commanding. Every sip embodies a journey of exploration — from the first light sweetness on the palate to the lingering warmth that settles with satisfaction.',
