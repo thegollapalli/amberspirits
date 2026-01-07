@@ -77,7 +77,7 @@ const FeaturedBrands = () => {
                     </div>
 
                     {/* Controls */}
-                    <div className="absolute top-1/2 -translate-y-1/2 left-0 right-0 flex justify-between pointer-events-none px-4 md:px-0">
+                    <div className="absolute top-48 md:top-1/2 -translate-y-1/2 left-0 right-0 flex justify-between pointer-events-none px-4 md:px-0">
                         <button
                             onClick={prevSlide}
                             className="pointer-events-auto w-12 h-12 rounded-full border border-white/20 flex items-center justify-center text-white hover:bg-white hover:text-dark transition-all"
